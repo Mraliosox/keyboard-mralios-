@@ -1,0 +1,6 @@
+{
+  "name": "Mralios Keyboard",
+  "description": "لوحة مفاتيح Mralios Keyboard v1.2 بتصميم يجمع بين iPhone وSamsung مع دعم كامل للعربية وتخصيص الأصوات والسحب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

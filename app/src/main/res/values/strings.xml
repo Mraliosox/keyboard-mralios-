@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Mralios Keyboard</string>
+    <string name="ime_name">Mralios Keyboard (عربي / English)</string>
+    <string name="settings_title">إعدادات Mralios Keyboard</string>
+    <string name="app_version">الإصدار 1.2 (v1.2)</string>
+    <string name="enable_keyboard_title">تفعيل لوحة المفاتيح</string>
+    <string name="enable_keyboard_desc">قم بتفعيل لوحة المفاتيح من قائمة لوحات المفاتيح في النظام</string>
+    <string name="select_keyboard_title">اختيار اللوحة الافتراضية</string>
+    <string name="select_keyboard_desc">اضغط لتعيين Mralios Keyboard كلوحة الإدخال الافتراضية</string>
+    <string name="test_keyboard_hint">جرّب الكتابة هنا مباشرة...</string>
+
+    <!-- Settings categories -->
+    <string name="cat_appearance">المظهر والتصميم</string>
+    <string name="cat_behavior">سلوك الكتابة والذكاء</string>
+    <string name="cat_sound_vibration">الصوت والاهتزاز المتقدم</string>
+    <string name="cat_shortcuts">الاختصارات النصية والحافظة</string>
+
+    <!-- Specific options -->
+    <string name="opt_theme">السمة (Theme)</string>
+    <string name="opt_height">ارتفاع الكيبورد</string>
+    <string name="opt_popup">ظهور فقاعة الحرف (iOS Pop-up)</string>
+    <string name="opt_number_row">صف الأرقام العلوي الدائم (Samsung)</string>
+    <string name="opt_suggestions">شريط الاقتراحات والتصحيح</string>
+    <string name="opt_next_word">توقّع الكلمة التالية</string>
+    <string name="opt_swipe">الكتابة بالسحب (Swipe typing)</string>
+    <string name="opt_double_space">نقطة عند الضغط مرتين على المسافة</string>
+    <string name="opt_auto_cap">كتابة أول حرف كبير بعد النقطة</string>
+    <string name="opt_vibrate">اهتزاز خفيف عند الضغط</string>
+    <string name="opt_vibrate_strength">قوة الاهتزاز</string>
+    <string name="opt_sound">صوت نقر المفاتيح</string>
+    <string name="opt_sound_profile">نوع صوت النقر</string>
+    <string name="opt_sound_volume">مستوى الصوت</string>
+    <string name="opt_shortcuts">إدارة الاختصارات النصية</string>
+    <string name="opt_clipboard">سجل الحافظة (Clipboard)</string>
+</resources>
